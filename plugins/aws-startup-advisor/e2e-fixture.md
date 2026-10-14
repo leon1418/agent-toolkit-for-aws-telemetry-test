@@ -1,3 +1,3 @@
 # Startup Advisor test fixture
 
-Base content.
+Changed for the author checklist end-to-end test.
