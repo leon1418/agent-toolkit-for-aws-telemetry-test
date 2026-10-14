@@ -1,3 +1,3 @@
 # Other plugin test fixture
 
-Base content.
+Changed to verify checklist workflow path isolation.
